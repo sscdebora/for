@@ -14,7 +14,7 @@ print(a*d)
 
 def div(dividendo,divisor):
 if divisor==0:
-print("divisor não pode ser 0")
+print("divisor não pode ser 0 ZERO ")
 else:
 print(dividendo/divisor)
 
